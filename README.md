@@ -1,11 +1,12 @@
-# Serpientes y Escaleras
+# Serpientes y Escaleras Python Juego
 
-Autor:Isaac Reyes
+Autor: Isaac Reyes
 
 ## Descripción
-Este proyecto es una implementación digital del clásico juego de mesa "Serpientes y Escaleras". Seleccione el lenguaje Python y está diseñado para ser ejecutado en la consola. El juego soporta dos jugadores que compiten para alcanzar primero la casilla 100 en el tablero, navegando a través de serpientes y escaleras.
+Este proyecto es una implementación digital del clásico juego de mesa "Snakes & Ladders". Seleccione el lenguaje Python y está diseñado para ser ejecutado en la consola. El juego soporta dos jugadores que compiten para alcanzar primero la casilla 100 en el tablero, navegando a través de serpientes y escaleras.
 
 ## Estructura del Proyecto
+```
 SnakesLadders-Python-Game
 │
 ├── game                  #Carpeta para los módulos principales del juego
@@ -23,15 +24,15 @@ SnakesLadders-Python-Game
 ├── main.py                 #Script principal para ejecutar juego
 │
 └── README.md               #Documentación del proyecto
-
+```
 
 ## Características
 - **Tablero Dinámico:** El tablero tiene serpientes y escaleras en posiciones predefinidas que cambian el curso del juego.
-- **Juego Multijugador:** Soporte para dos jugadores, jugando turnos alternos.
-- **Interacción Basada en Consola:** Interfaz sencilla basada en consola para lanzar el dado y mover las fichas.
+- **Juego Multijugador:** Soporte para dos jugadores, jugando turnos alternos. (se pueden aumentar el numero de jugadores)
+- **Interacción Basada en Consola:** Interfaz sencilla basada en consola para lanzar el dado y mover las fichas. (Se puede crear una en Java, la cual tengo experiencia, e incluso en , esa recien estoy aprendiendo)
 
 
-## Cómo emPezar e insalar
+## Cómo empezar e instalar
 Para jugar, necesitarás Python instalado en tu máquina.
 Clona esto en el local:
 git clone https://github.com/IGRA27/SnakesLadders-Pyton-Game.git
